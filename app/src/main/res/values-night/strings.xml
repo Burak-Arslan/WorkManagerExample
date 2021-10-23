@@ -1,5 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">WorkManager</string>
     <string name="blur_mode">Blur Modunu Seçin</string>
     <string name="az">Az</string>
     <string name="az_biraz">Az Biraz</string>
